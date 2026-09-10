@@ -106,6 +106,11 @@ Electronics Engineering student at **Universidad del Istmo, Guatemala** — buil
 ## 🆕 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed undefined commit(s) to [andregil003/LosBrujos](https://github.com/andregil003/LosBrujos)<br>
+2. ⬆️ Pushed undefined commit(s) to [andregil003/LosBrujos](https://github.com/andregil003/LosBrujos)<br>
+3. ⬆️ Pushed undefined commit(s) to [andregil003/LosBrujos](https://github.com/andregil003/LosBrujos)<br>
+4. ⬆️ Pushed undefined commit(s) to [andregil003/LosBrujos](https://github.com/andregil003/LosBrujos)<br>
+5. ⬆️ Pushed undefined commit(s) to [andregil003/LosBrujos](https://github.com/andregil003/LosBrujos)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br>
