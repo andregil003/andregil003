@@ -1,0 +1,5 @@
+<svg width="800" height="30" viewBox="0 0 800 30" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="15" x2="800" y2="15" stroke="#312E81" stroke-width="2" stroke-dasharray="800" stroke-dashoffset="800">
+    <animate attributeName="stroke-dashoffset" from="800" to="0" dur="1.5s" fill="freeze" />
+  </line>
+</svg>

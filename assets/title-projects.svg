@@ -1,0 +1,7 @@
+<svg width="400" height="50" viewBox="0 0 400 50" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="35" font-family="'Space Grotesk', 'Segoe UI', Arial, sans-serif" font-size="30" font-weight="700" fill="#93C5FD">
+    Featured Projects
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" fill="freeze" />
+    <animate attributeName="x" from="-15" to="0" dur="0.8s" fill="freeze" />
+  </text>
+</svg>

@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:312E81,100:0F172A&height=180&section=header&text=JORGE%20ANDR%C3%89%20GIL%20LEONARDO&fontSize=34&font=Orbitron&fontColor=93C5FD&fontAlignY=42&stroke=818CF8&strokeWidth=1&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:312E81,100:0F172A&height=180&section=header&text=JORGE%20ANDR%C3%89%20GIL%20LEONARDO&fontSize=34&font=Orbitron&fontColor=93C5FD&fontAlignY=42&stroke=818CF8&strokeWidth=1&animation=twinkling" width="100%" />
 
 <br>
 
@@ -18,7 +18,7 @@
 
 <br>
 
-## 👋 About Me
+## <img src="https://raw.githubusercontent.com/andregil003/andregil003/main/assets/title-about.svg" alt="About Me" width="320" />
 
 Electronics Engineering student at **Universidad del Istmo, Guatemala** — building systems where hardware meets code, with a focus on embedded systems, network engineering, and full-stack software development.
 
@@ -29,7 +29,9 @@ Electronics Engineering student at **Universidad del Istmo, Guatemala** — buil
 
 <br>
 
-## 🛠️ Technical Skills
+<img src="https://raw.githubusercontent.com/andregil003/andregil003/main/assets/divider.svg" width="100%" />
+
+## <img src="https://raw.githubusercontent.com/andregil003/andregil003/main/assets/title-skills.svg" alt="Technical Skills" width="400" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,java,js,ts,nodejs,html,css,postgres,mysql,supabase,raspberrypi,arduino,mikrotik,linux,git&theme=dark" />
@@ -62,24 +64,28 @@ Electronics Engineering student at **Universidad del Istmo, Guatemala** — buil
 
 <br>
 
-## 📊 GitHub Stats
+<img src="https://raw.githubusercontent.com/andregil003/andregil003/main/assets/divider.svg" width="100%" />
+
+## <img src="https://raw.githubusercontent.com/andregil003/andregil003/main/assets/title-stats.svg" alt="GitHub Stats" width="340" />
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=andregil003&theme=nightowl&border_radius=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/card?username=andregil003&theme=default&border_radius=8" />
-    <img src="https://ghstats.dev/api/card?username=andregil003&theme=nightowl&border_radius=8" alt="GitHub Stats" width="450" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=andregil003&theme=nightowl&border_radius=8&animation=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/card?username=andregil003&theme=default&border_radius=8&animation=true" />
+    <img src="https://ghstats.dev/api/card?username=andregil003&theme=nightowl&border_radius=8&animation=true" alt="GitHub Stats" width="450" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=andregil003&theme=nightowl&layout=donut&border_radius=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/langs?username=andregil003&theme=default&layout=donut&border_radius=8" />
-    <img src="https://ghstats.dev/api/langs?username=andregil003&theme=nightowl&layout=donut&border_radius=8" alt="Top Languages" width="450" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=andregil003&theme=nightowl&layout=donut&border_radius=8&animation=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/langs?username=andregil003&theme=default&layout=donut&border_radius=8&animation=true" />
+    <img src="https://ghstats.dev/api/langs?username=andregil003&theme=nightowl&layout=donut&border_radius=8&animation=true" alt="Top Languages" width="450" />
   </picture>
 </p>
 
 <br>
 
-## 🐍 Contribution Snake
+<img src="https://raw.githubusercontent.com/andregil003/andregil003/main/assets/divider.svg" width="100%" />
+
+## <img src="https://raw.githubusercontent.com/andregil003/andregil003/main/assets/title-snake.svg" alt="Contribution Snake" width="420" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andregil003/andregil003/output/github-contribution-grid-snake-dark.svg" />
@@ -89,7 +95,9 @@ Electronics Engineering student at **Universidad del Istmo, Guatemala** — buil
 
 <br>
 
-## 📌 Featured Projects
+<img src="https://raw.githubusercontent.com/andregil003/andregil003/main/assets/divider.svg" width="100%" />
+
+## <img src="https://raw.githubusercontent.com/andregil003/andregil003/main/assets/title-projects.svg" alt="Featured Projects" width="400" />
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -103,7 +111,9 @@ Electronics Engineering student at **Universidad del Istmo, Guatemala** — buil
 
 <br>
 
-## 🆕 Recent Activity
+<img src="https://raw.githubusercontent.com/andregil003/andregil003/main/assets/divider.svg" width="100%" />
+
+## <img src="https://raw.githubusercontent.com/andregil003/andregil003/main/assets/title-activity.svg" alt="Recent Activity" width="360" />
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed to [andregil003/LosBrujos](https://github.com/andregil003/LosBrujos) · hace 6 h<br>
