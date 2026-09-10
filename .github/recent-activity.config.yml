@@ -1,0 +1,7 @@
+settings:
+  commit_msg: "⚡ Update README with recent activity"
+  max_lines: 5
+  date:
+    timezone: America/Guatemala
+messages:
+  push: "⬆️ Pushed to {REPO}"
