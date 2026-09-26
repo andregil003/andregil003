@@ -118,9 +118,9 @@ Electronics Engineering student at **Universidad del Istmo, Guatemala** — buil
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed to [andregil003/myCoolFont](https://github.com/andregil003/myCoolFont) · hace 6 d<br>
 2. ⬆️ Pushed to [andregil003/coolHtmls](https://github.com/andregil003/coolHtmls) · hace 10 d<br>
-3. ⬆️ Pushed to [andregil003/mugu](https://github.com/andregil003/mugu) · hace 14 d<br>
-4. ⬆️ Pushed to [andregil003/mugu](https://github.com/andregil003/mugu) · hace 14 d<br>
-5. ⬆️ Pushed to [andregil003/mugu](https://github.com/andregil003/mugu) · hace 14 d<br>
+3. ⬆️ Pushed to [andregil003/mugu](https://github.com/andregil003/mugu) · hace 15 d<br>
+4. ⬆️ Pushed to [andregil003/mugu](https://github.com/andregil003/mugu) · hace 15 d<br>
+5. ⬆️ Pushed to [andregil003/mugu](https://github.com/andregil003/mugu) · hace 15 d<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br>
