@@ -117,8 +117,8 @@ Electronics Engineering student at **Universidad del Istmo, Guatemala** — buil
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed to [andregil003/myFont](https://github.com/andregil003/myFont) · hace 1 d<br>
-2. ⬆️ Pushed to [andregil003/pixelWrld](https://github.com/andregil003/pixelWrld) · hace 22 h<br>
-3. ⬆️ Pushed to [andregil003/ascii3DWorld](https://github.com/andregil003/ascii3DWorld) · hace 19 h<br>
+2. ⬆️ Pushed to [andregil003/pixelWrld](https://github.com/andregil003/pixelWrld) · hace 1 d<br>
+3. ⬆️ Pushed to [andregil003/ascii3DWorld](https://github.com/andregil003/ascii3DWorld) · hace 1 d<br>
 4. ⬆️ Pushed to [andregil003/myFont](https://github.com/andregil003/myFont) · hace 1 d<br>
 5. ⬆️ Pushed to [andregil003/myFont](https://github.com/andregil003/myFont) · hace 1 d<br>
 <!--RECENT_ACTIVITY:end-->
