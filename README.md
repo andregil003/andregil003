@@ -118,9 +118,9 @@ Electronics Engineering student at **Universidad del Istmo, Guatemala** — buil
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed to [tono88/OpenSemiLab](https://github.com/tono88/OpenSemiLab) · hace 1 d<br>
 2. ⬆️ Pushed to [andregil003/design-styles-lab](https://github.com/andregil003/design-styles-lab) · hace 1 d<br>
-3. ⬆️ Pushed to [andregil003/ascii3DWorld](https://github.com/andregil003/ascii3DWorld) · hace 7 h<br>
+3. ⬆️ Pushed to [andregil003/ascii3DWorld](https://github.com/andregil003/ascii3DWorld) · hace 16 h<br>
 4. ⬆️ Pushed to [andregil003/ascii3DWorld](https://github.com/andregil003/ascii3DWorld) · hace 1 d<br>
-5. ⬆️ Pushed to [andregil003/myFont](https://github.com/andregil003/myFont) · hace 2 d<br>
+5. ⬆️ Pushed to [andregil003/myFont](https://github.com/andregil003/myFont) · hace 3 d<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br>
