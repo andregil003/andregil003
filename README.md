@@ -119,8 +119,8 @@ Electronics Engineering student at **Universidad del Istmo, Guatemala** — buil
 1. ⬆️ Pushed to [andregil003/campus-unis-dcn2](https://github.com/andregil003/campus-unis-dcn2) · hace 1 d<br>
 2. ⬆️ Pushed to [andregil003/campus-unis-dcn2](https://github.com/andregil003/campus-unis-dcn2) · hace 2 d<br>
 3. ⬆️ Pushed to [andregil003/campus-unis-dcn2](https://github.com/andregil003/campus-unis-dcn2) · hace 2 d<br>
-4. ⬆️ Pushed to [andregil003/AUDA](https://github.com/andregil003/AUDA) · hace 6 d<br>
-5. ⬆️ Pushed to [andregil003/AUDA](https://github.com/andregil003/AUDA) · hace 6 d<br>
+4. ⬆️ Pushed to [andregil003/AUDA](https://github.com/andregil003/AUDA) · hace 7 d<br>
+5. ⬆️ Pushed to [andregil003/AUDA](https://github.com/andregil003/AUDA) · hace 7 d<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br>
