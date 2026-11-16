@@ -116,11 +116,11 @@ Electronics Engineering student at **Universidad del Istmo, Guatemala** — buil
 ## <img src="https://raw.githubusercontent.com/andregil003/andregil003/main/assets/title-activity.svg" alt="Recent Activity" width="360" />
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed to [andregil003/nxtheme-editor](https://github.com/andregil003/nxtheme-editor) · hace 22 h<br>
-2. ⬆️ Pushed to [andregil003/dddaDuo](https://github.com/andregil003/dddaDuo) · hace 6 d<br>
-3. ⬆️ Pushed to [andregil003/qrTree](https://github.com/andregil003/qrTree) · hace 6 d<br>
-4. ⬆️ Pushed to [andregil003/pixelWrld](https://github.com/andregil003/pixelWrld) · hace 6 d<br>
-5. ⬆️ Pushed to [andregil003/Sistema-de-Rastreo-Multi-vista-en-Tiempo-Real](https://github.com/andregil003/Sistema-de-Rastreo-Multi-vista-en-Tiempo-Real) · hace 6 d<br>
+1. ⬆️ Pushed to [andregil003/nxtheme-editor](https://github.com/andregil003/nxtheme-editor) · hace 1 d<br>
+2. ⬆️ Pushed to [andregil003/dddaDuo](https://github.com/andregil003/dddaDuo) · hace 7 d<br>
+3. ⬆️ Pushed to [andregil003/qrTree](https://github.com/andregil003/qrTree) · hace 7 d<br>
+4. ⬆️ Pushed to [andregil003/pixelWrld](https://github.com/andregil003/pixelWrld) · hace 7 d<br>
+5. ⬆️ Pushed to [andregil003/Sistema-de-Rastreo-Multi-vista-en-Tiempo-Real](https://github.com/andregil003/Sistema-de-Rastreo-Multi-vista-en-Tiempo-Real) · hace 7 d<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br>
